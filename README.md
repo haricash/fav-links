@@ -1,2 +1,3 @@
-# fav-links
-A collection of my favourite links
+# Some of my favourite links
+
+* [Git Quick User Guide]{https://rogerdudler.github.io/git-guide/}
